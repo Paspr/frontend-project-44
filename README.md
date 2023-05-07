@@ -10,12 +10,18 @@
 
 ### How to run brain-even game  
 
-1. After installation run `brain-even` in the terminal  
+After installation run `brain-even` in the terminal  
 
 [![asciicast](https://asciinema.org/a/KK4iuX68K3XdxrUzPD19FRK3H.svg)](https://asciinema.org/a/KK4iuX68K3XdxrUzPD19FRK3H)
 
 ### How to run brain-calc game  
 
-1. After installation run `brain-calc` in the terminal  
+After installation run `brain-calc` in the terminal  
 
 [![asciicast](https://asciinema.org/a/71wD0ALIIvmnq55HrkriCAubB.svg)](https://asciinema.org/a/71wD0ALIIvmnq55HrkriCAubB)
+
+### How to run brain-gcd game  
+
+After installation run `brain-gcd` in the terminal  
+
+[![asciicast](https://asciinema.org/a/eaV1lqas9cbPqQvknbuXQA7Kf.svg)](https://asciinema.org/a/eaV1lqas9cbPqQvknbuXQA7Kf)
