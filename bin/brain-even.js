@@ -13,4 +13,4 @@ function generateQuestion() {
   return [number, rightAnswer];
 }
 
-gameLoop(generateQuestion(), rule);
+gameLoop(generateQuestion, rule);
