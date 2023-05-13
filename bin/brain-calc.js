@@ -2,7 +2,7 @@
 import gameLoop from '../src/index.js';
 
 const rule = 'What is the result of the expression?';
-const operations = ['+', '-', '*', '/'];
+const operations = ['+', '-', '*'];
 
 function calculateAnswer(firstOperand, secondOperand, operationSign) {
   let result = 0;
@@ -15,9 +15,6 @@ function calculateAnswer(firstOperand, secondOperand, operationSign) {
       break;
     case '*':
       result = firstOperand * secondOperand;
-      break;
-    case '/':
-      result = Math.floor(firstOperand / secondOperand);
       break;
     default:
       break;
