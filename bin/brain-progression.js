@@ -15,8 +15,8 @@ function generateProgression() {
     progressionArray.push(progressionArray[i - 1] + commonDiffirence);
   }
   const missingNumber = progressionArray[missingNumberIndex];
-  progressionArray[missingNumberIndex] = '...';
-  return [progressionArray.toString(), String(missingNumber)];
+  progressionArray[missingNumberIndex] = '..';
+  return [progressionArray.join(' '), String(missingNumber)];
 }
 
 gameLoop(generateProgression, rule);
