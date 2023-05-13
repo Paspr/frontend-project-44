@@ -2,7 +2,7 @@
 import gameLoop from '../src/index.js';
 import { getRandomInt } from '../src/cli.js';
 
-const rule = 'Answer "yes" if the number is prime, otherwise answer "no"';
+const rule = 'Answer "yes" if given number is prime. Otherwise answer "no"';
 
 function isPrime(number) {
   if (number <= 1) {
