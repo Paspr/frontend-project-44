@@ -31,3 +31,9 @@ After installation run `brain-gcd` in the terminal
 After installation run `brain-progression` in the terminal  
 
 [![asciicast](https://asciinema.org/a/IC0RDVe3uV5zuJhq9cqklUslW.svg)](https://asciinema.org/a/IC0RDVe3uV5zuJhq9cqklUslW)
+
+### How to run brain-prime game  
+
+After installation run `brain-prime` in the terminal  
+
+[![asciicast](https://asciinema.org/a/yW7RDlnlDkPWGedWjrjFLfeYK.svg)](https://asciinema.org/a/yW7RDlnlDkPWGedWjrjFLfeYK)
