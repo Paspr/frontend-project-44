@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import readlineSync from 'readline-sync';
-import greet from './cli.js';
+import { greet } from './cli.js';
 
 const rounds = 3;
 let failure = false;
