@@ -25,3 +25,9 @@ After installation run `brain-calc` in the terminal
 After installation run `brain-gcd` in the terminal  
 
 [![asciicast](https://asciinema.org/a/eaV1lqas9cbPqQvknbuXQA7Kf.svg)](https://asciinema.org/a/eaV1lqas9cbPqQvknbuXQA7Kf)
+
+### How to run brain-progression game  
+
+After installation run `brain-progression` in the terminal  
+
+[![asciicast](https://asciinema.org/a/IC0RDVe3uV5zuJhq9cqklUslW.svg)](https://asciinema.org/a/IC0RDVe3uV5zuJhq9cqklUslW)
