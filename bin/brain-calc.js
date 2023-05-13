@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import gameLoop from '../src/index.js';
 
-const rule = 'What is the result of the expression?\n "\\" is integer division';
+const rule = 'What is the result of the expression?';
 const operations = ['+', '-', '*', '/'];
 
 function calculateAnswer(firstOperand, secondOperand, operationSign) {
